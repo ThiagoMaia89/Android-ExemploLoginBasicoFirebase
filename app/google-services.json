@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224433987255",
+    "project_id": "teste-autenticacao-d7e97",
+    "storage_bucket": "teste-autenticacao-d7e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224433987255:android:8068603b2859a71c023732",
+        "android_client_info": {
+          "package_name": "com.simplesoftware.testeauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224433987255-966p2aq1uqsp9podgb9ol70pfor1drig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDJ5ZGywiq-NTXX-dbVL1YRizPlOgBeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224433987255-966p2aq1uqsp9podgb9ol70pfor1drig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

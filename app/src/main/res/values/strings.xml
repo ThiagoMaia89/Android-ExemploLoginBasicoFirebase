@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teste Auth</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="mostrar_senha">Mostrar senha</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="voltar">Voltar</string>
+</resources>
